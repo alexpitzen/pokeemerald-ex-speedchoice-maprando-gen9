@@ -206,7 +206,7 @@
 #define STANDARD_FRIENDSHIP ((P_UPDATED_FRIENDSHIP >= GEN_8) ? 50 : 70)
 
 // Friendship required for EVO_FRIENDSHIP and its day/night variants.
-#define FRIENDSHIP_EVO_THRESHOLD ((P_FRIENDSHIP_EVO_THRESHOLD >= GEN_9) ? 160 : 220)
+#define FRIENDSHIP_EVO_THRESHOLD ((P_FRIENDSHIP_EVO_THRESHOLD >= GEN_9) ? 100 : 220)
 
 // Presets offered by the debug menu's Set Friendship option. The script passes an
 // index; sDebugFriendshipPresets in script_pokemon_util.c maps it to a value.

@@ -1865,9 +1865,9 @@ static bool32 Fishing_GetRodOut(struct Task *task)
 {
     struct ObjectEvent *playerObjEvent;
     const s16 minRounds1[] = {
-        [OLD_ROD]   = 1,
-        [GOOD_ROD]  = 1,
-        [SUPER_ROD] = 1
+        [OLD_ROD]   = 0,
+        [GOOD_ROD]  = 0,
+        [SUPER_ROD] = 0
     };
     const s16 minRounds2[] = {
         [OLD_ROD]   = 1,
@@ -1907,9 +1907,9 @@ static bool32 Fishing_InitDots(struct Task *task)
     task->tNumDots = 0;
     randVal = Random();
     randVal %= 10;
-    task->tDotsRequired = randVal + 1;
+    task->tDotsRequired = randVal;
     if (task->tRoundsPlayed == 0)
-        task->tDotsRequired = randVal + 4;
+        task->tDotsRequired = randVal + 1;
     if (task->tDotsRequired >= 10)
         task->tDotsRequired = 10;
     return TRUE;
@@ -1926,9 +1926,11 @@ static bool32 Fishing_ShowDots(struct Task *task)
         if (!DoesFishingMinigameAllowCancel())
             return FALSE;
 
-        task->tStep = FISHING_NOT_EVEN_NIBBLE;
+        // task->tStep = FISHING_NOT_EVEN_NIBBLE;
+        task->tStep = FISHING_GOT_BITE;
         if (task->tRoundsPlayed != 0)
-            task->tStep = FISHING_GOT_AWAY;
+            task->tStep--;
+            // task->tStep = FISHING_GOT_AWAY;
         return TRUE;
     }
     else
@@ -2013,9 +2015,9 @@ static bool32 Fishing_ChangeMinigame(struct Task *task)
 static bool32 Fishing_WaitForA(struct Task *task)
 {
     const s16 reelTimeouts[3] = {
-        [OLD_ROD]   = 36,
-        [GOOD_ROD]  = 33,
-        [SUPER_ROD] = 30
+        [OLD_ROD]   = 900,
+        [GOOD_ROD]  = 900,
+        [SUPER_ROD] = 900
     };
 
     AlignFishingAnimationFrames();
@@ -2041,8 +2043,8 @@ static bool32 Fishing_CheckMoreDots(struct Task *task)
     const s16 moreDotsChance[][2] =
     {
         [OLD_ROD]   = {0, 0},
-        [GOOD_ROD]  = {40, 10},
-        [SUPER_ROD] = {70, 30}
+        [GOOD_ROD]  = {0, 0},
+        [SUPER_ROD] = {0, 0}
     };
 
     AlignFishingAnimationFrames();

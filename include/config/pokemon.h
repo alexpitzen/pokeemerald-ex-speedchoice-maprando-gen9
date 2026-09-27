@@ -46,7 +46,7 @@
 #define P_EV_CAP                         GEN_LATEST  // Since Gen 6, the max EVs per stat is 252 instead of 255.
 #define P_SHOW_TERA_TYPE                 GEN_9       // Since Gen 9, the Tera Type is shown on the summary screen.
 #define P_TM_LITERACY                    GEN_LATEST  // Since Gen 6, TM illiterate Pokémon can learn TMs that teach moves that are in their level-up learnsets.
-#define P_CAN_FORGET_HIDDEN_MOVE         FALSE       // If TRUE, Pokémon can forget any move, even if it is a Hidden Move.
+#define P_CAN_FORGET_HIDDEN_MOVE         TRUE        // If TRUE, Pokémon can forget any move, even if it is a Hidden Move.
 #define P_EGG_CYCLE_LENGTH               GEN_LATEST  // Since Gen 8, egg cycles take half as many steps as before.
 #define P_TWO_FRAME_FRONT_SPRITES        TRUE        // In Pokémon Emerald, Pokémon front sprites always consist of two frames. This config can revert it to only use the first frame, as is the case in the other Gen 3 games.
 #define P_ONLY_OBTAINABLE_SHINIES        FALSE       // If TRUE, Pokémon encountered in the Battle Pyramid won't be shiny.
@@ -54,7 +54,7 @@
 
 // Summary screen settings
 #define P_SUMMARY_SCREEN_MOVE_RELEARNER  FLAG_SUMMARY_RELEARNER // If TRUE, shows an option for Pokémon to relearn moves on the summary screen moves page.
-#define P_SUMMARY_MOVE_RELEARNER_FULL_PP FALSE                  // If TRUE, the move relearner in the summary screen restores relearned moves' PP to full.
+#define P_SUMMARY_MOVE_RELEARNER_FULL_PP TRUE                   // If TRUE, the move relearner in the summary screen restores relearned moves' PP to full.
 #define P_SUMMARY_SCREEN_RENAME          TRUE                   // If TRUE, an option to change Pokémon nicknames replaces the cancel prompt on the summary screen info page.
 #define P_SUMMARY_SCREEN_IV_EV_INFO      TRUE                   // If TRUE, will allow player to cycle through the Stats, IVs, and EVs in the summary screen skills page.
 #define P_SUMMARY_SCREEN_IV_EV_BOX_ONLY  FALSE                  // If TRUE, will allow player to cycle through the Stats, IVs, and EVs in the summary screen skills page, but only in the PC storage box.
