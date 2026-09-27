@@ -941,7 +941,7 @@ bool8 CheckSpeedchoiceOption(u8 option, u8 selection)
         case SHUFFLE_MUSIC:
             return gSaveBlock2Ptr->speedchoiceConfig.shuffleMusic == selection;
         case DEBUG_MENUS:
-            return gSaveBlock2Ptr->speedchoiceConfig.debugMenus == selection;
+            return gSaveBlock2Ptr->speedchoiceConfig.debugMenus == DEBUG_MENUS_ON;
         case BATTLE_SPEED:
             return gSaveBlock2Ptr->speedchoiceConfig.battleSpeed == selection;
         case SPEEDUP:
