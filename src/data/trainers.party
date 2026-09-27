@@ -598,16 +598,19 @@ Items: Super Potion / Super Potion
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Mightyena
+Mightyenema (Mightyena)
 Level: 41
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Crobat
 Level: 41
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Sharpedo
 Level: 43
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_LEAH ===
@@ -4595,48 +4598,54 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability / Setup First Turn
 Mugshot: Purple
 
-Mightyena
+Mightyenema (Mightyena)
 Level: 46
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Roar
 - Double Edge
 - Sand Attack
 - Crunch
 
-Shiftry
+ShiftySchiff (Shiftry)
 Level: 48
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Torment
 - Double Team
 - Swagger
 - Extrasensory
 
-Cacturne
+Cacturnt (Cacturne)
 Level: 46
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Leech Seed
 - Feint Attack
 - Needle Arm
 - Cotton Spore
 
-Crawdaunt
+Crawdont (Crawdaunt)
 Level: 48
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Surf
 - Swords Dance
 - Strength
 - Facade
 
-Absol @ Sitrus Berry
+Absolved (Absol) @ Sitrus Berry
 Level: 49
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Aerial Ace
 - Rock Slide
 - Swords Dance
 - Slash
 
-None
+HelloDarknes (None)
 Level: 46
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Roar
 - Double Edge
@@ -4655,48 +4664,54 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Mugshot: Green
 
-Dusclops
+Dunceclops (Dusclops)
 Level: 48
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Shadow Punch
 - Confuse Ray
 - Curse
 - Protect
 
-Banette
+Banned (Banette)
 Level: 49
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Shadow Ball
 - Grudge
 - Will O Wisp
 - Feint Attack
 
-Sableye
+Disableye (Sableye)
 Level: 50
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Shadow Ball
 - Double Team
 - Night Shade
 - Feint Attack
 
-Banette
+BanityGritty (Banette)
 Level: 49
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Shadow Ball
 - Psychic
 - Thunderbolt
 - Facade
 
-Dusclops @ Sitrus Berry
+Dusclaps (Dusclops) @ Sitrus Berry
 Level: 51
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Shadow Ball
 - Ice Beam
 - Rock Slide
 - Earthquake
 
-None
+Spoopy (None)
 Level: 48
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Shadow Punch
 - Confuse Ray
@@ -4715,48 +4730,54 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Mugshot: Pink
 
-Sealeo
+Lakeleo (Sealeo)
 Level: 50
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Encore
 - Body Slam
 - Hail
 - Ice Ball
 
-Glalie
+GlaLie (Glalie)
 Level: 50
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Light Screen
 - Crunch
 - Icy Wind
 - Ice Beam
 
-Sealeo
+SeaLeo (Sealeo)
 Level: 52
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Attract
 - Double Edge
 - Hail
 - Blizzard
 
-Glalie
+GlaTruth (Glalie)
 Level: 52
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Shadow Ball
 - Explosion
 - Hail
 - Ice Beam
 
-Walrein @ Sitrus Berry
+OceanLeo (Walrein) @ Sitrus Berry
 Level: 53
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Surf
 - Body Slam
 - Ice Beam
 - Sheer Cold
 
-None
+AbsoluteZero (None)
 Level: 50
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Encore
 - Body Slam
@@ -4774,48 +4795,54 @@ Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Mugshot: Blue
 
-Shelgon
+ShelHere (Shelgon)
 Level: 52
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Rock Tomb
 - Dragon Claw
 - Protect
 - Double Edge
 
-Altaria
+AltarnitFax (Altaria)
 Level: 54
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Edge
 - Dragon Breath
 - Dragon Dance
 - Aerial Ace
 
-Kingdra
+Queendra (Kingdra) (F)
 Level: 53
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Smokescreen
 - Dragon Dance
 - Surf
 - Body Slam
 
-Flygon
+FlyGonaWipeU (Flygon)
 Level: 53
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Flamethrower
 - Crunch
 - Dragon Breath
 - Earthquake
 
-Salamence @ Sitrus Berry
+SalMinceDeez (Salamence) @ Sitrus Berry
 Level: 55
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 - Dragon Claw
 - Rock Slide
 - Crunch
 
-None
+Draggin (None)
 Level: 52
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Rock Tomb
 - Dragon Claw
@@ -4832,28 +4859,40 @@ Items: Potion / Potion
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Geodude
+Dwayne (Geodude)
 Level: 12
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Tackle
 - Defense Curl
 - Rock Throw
 - Rock Tomb
 
-Geodude
+The Rock (Geodude)
 Level: 12
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Tackle
 - Defense Curl
 - Rock Throw
 - Rock Tomb
 
-Nosepass @ Oran Berry
+Nosepassy (Nosepass) @ Oran Berry
 Level: 15
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Block
 - Harden
 - Tackle
+- Rock Tomb
+
+Johnson (None)
+Level: 12
+Shiny: Yes
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Tackle
+- Defense Curl
+- Rock Throw
 - Rock Tomb
 
 === TRAINER_BRAWLY_1 ===
@@ -4866,48 +4905,54 @@ Items: Super Potion / Super Potion
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Machop
+GetInMachopa (Machop)
 Level: 16
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Karate Chop
 - Low Kick
 - Seismic Toss
 - Bulk Up
 
-Meditite
+Maditite (Meditite)
 Level: 16
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Focus Punch
 - Light Screen
 - Reflect
 - Bulk Up
 
-Makuhita @ Sitrus Berry
+Makushita (Makuhita) (F) @ Sitrus Berry
 Level: 19
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Arm Thrust
 - Vital Throw
 - Reversal
 - Bulk Up
 
-None
+Punchy (None)
 Level: 16
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Karate Chop
 - Low Kick
 - Seismic Toss
 - Bulk Up
 
-None
+Kicky (None)
 Level: 16
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Karate Chop
 - Low Kick
 - Seismic Toss
 - Bulk Up
 
-None
+Bitey (None)
 Level: 16
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Karate Chop
 - Low Kick
@@ -4924,48 +4969,54 @@ Items: Super Potion / Super Potion
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Voltorb
+RagingVolt (Voltorb)
 Level: 20
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Rollout
 - Spark
 - Self Destruct
 - Shock Wave
 
-Electrike
+Electricycle (Electrike)
 Level: 20
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Shock Wave
 - Leer
 - Quick Attack
 - Howl
 
-Magneton
+MagnetOff (Magneton)
 Level: 22
+Shiny: Yes
 IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 - Supersonic
 - Shock Wave
 - Thunder Wave
 - Sonic Boom
 
-Manectric @ Sitrus Berry
+Womanectric (Manectric) (F) @ Sitrus Berry
 Level: 24
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Quick Attack
 - Thunder Wave
 - Shock Wave
 - Howl
 
-None
+Elon (None)
 Level: 20
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Rollout
 - Spark
 - Self Destruct
 - Shock Wave
 
-None
+Teslur (None)
 Level: 20
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Rollout
 - Spark
@@ -4982,48 +5033,54 @@ Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Numel
+NumlNumlYay (Numel)
 Level: 24
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Overheat
 - Take Down
 - Magnitude
 - Sunny Day
 
-Slugma
+Schleckma (Slugma)
 Level: 24
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Overheat
 - Smog
 - Light Screen
 - Sunny Day
 
-Camerupt
+Coomerupt (Camerupt)
 Level: 26
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Overheat
 - Tackle
 - Sunny Day
 - Attract
 
-Torkoal @ White Herb
+Clean Coal (Torkoal) @ White Herb
 Level: 29
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Overheat
 - Sunny Day
 - Body Slam
 - Attract
 
-None
+MtVesuvius (None)
 Level: 24
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Overheat
 - Take Down
 - Magnitude
 - Sunny Day
 
-None
+Molcuatro (None)
 Level: 24
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Overheat
 - Take Down
@@ -5040,48 +5097,54 @@ Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Spinda
+Spindarella (Spinda) (F)
 Level: 27
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Teeter Dance
 - Psybeam
 - Facade
 - Encore
 
-Vigoroth
+VigoRoth401k (Vigoroth) @ Amulet Coin
 Level: 27
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Slash
 - Facade
 - Encore
 - Feint Attack
 
-Linoone
+LilNoon (Linoone)
 Level: 29
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Slash
 - Belly Drum
 - Facade
 - Headbutt
 
-Slaking @ Sitrus Berry
+UrWipingLmao (Slaking) @ Sitrus Berry
 Level: 31
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Counter
 - Yawn
 - Facade
 - Feint Attack
 
-None
+Regigigigas (None)
 Level: 27
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Teeter Dance
 - Psybeam
 - Facade
 - Encore
 
-None
+CallMeZaddy (None)
 Level: 27
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Teeter Dance
 - Psybeam
@@ -5098,48 +5161,54 @@ Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability / Risky
 
-Swablu
+Swabluuns (Swablu)
 Level: 29
+Shiny: Yes
 IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 - Perish Song
 - Mirror Move
 - Safeguard
 - Aerial Ace
 
-Tropius
+Tropiussy (Tropius)
 Level: 29
+Shiny: Yes
 IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 - Sunny Day
 - Aerial Ace
 - Solar Beam
 - Synthesis
 
-Pelipper
+Spellipper (Pelipper)
 Level: 30
+Shiny: Yes
 IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 - Water Gun
 - Supersonic
 - Protect
 - Aerial Ace
 
-Skarmory
+Skwingory (Skarmory)
 Level: 31
+Shiny: Yes
 IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 - Sand Attack
 - Fury Attack
 - Steel Wing
 - Aerial Ace
 
-Altaria @ Oran Berry
+Notaria (Altaria) @ Oran Berry
 Level: 33
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 - Dragon Breath
 - Dragon Dance
 - Aerial Ace
 
-None
+Boeing 747 (None)
 Level: 29
+Shiny: Yes
 IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 - Perish Song
 - Mirror Move
@@ -5156,48 +5225,54 @@ Items: Hyper Potion / Hyper Potion / Hyper Potion / Hyper Potion
 Double Battle: Yes
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Claydol
+Hyper Potion (Claydol) @ Hyper Potion
 Level: 41
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Earthquake
 - Ancient Power
 - Psychic
 - Light Screen
 
-Xatu
+Hyper Potion (Xatu) @ Hyper Potion
 Level: 41
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Psychic
 - Sunny Day
 - Confuse Ray
 - Calm Mind
 
-Lunatone @ Sitrus Berry
+Hyper Potion (Lunatone) @ Sitrus Berry
 Level: 42
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Light Screen
 - Psychic
 - Hypnosis
 - Calm Mind
 
-Solrock @ Sitrus Berry
+Hyper Potion (Solrock) @ Sitrus Berry
 Level: 42
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Sunny Day
 - Solar Beam
 - Psychic
 - Flamethrower
 
-None
+Super Potion (None) @ Super Potion
 Level: 41
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Earthquake
 - Ancient Power
 - Psychic
 - Light Screen
 
-None
+Super Potion (None) @ Super Potion
 Level: 41
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Earthquake
 - Ancient Power
@@ -5214,48 +5289,54 @@ Items: Hyper Potion / Hyper Potion
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Luvdisc
+Luvdeez (Luvdisc)
 Level: 41
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Water Pulse
 - Attract
 - Sweet Kiss
 - Flail
 
-Whiscash
+JohnnyCash (Whiscash)
 Level: 41
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Rain Dance
 - Water Pulse
 - Amnesia
 - Earthquake
 
-Sealeo
+SealNeYo (Sealeo)
 Level: 43
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Encore
 - Body Slam
 - Aurora Beam
 - Water Pulse
 
-Crawdaunt
+Crawdoobie (Crawdaunt)
 Level: 43
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Water Pulse
 - Crabhammer
 - Taunt
 - Leer
 
-Kingdra @ Chesto Berry
+DragKing (Kingdra) (M) @ Chesto Berry
 Level: 46
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Water Pulse
 - Double Team
 - Ice Beam
 - Rest
 
-None
+Juana (None) (F)
 Level: 41
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Water Pulse
 - Attract
@@ -9602,6 +9683,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Altaria
 Level: 44
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Aerial Ace
 - Safeguard
@@ -9610,6 +9692,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Delcatty
 Level: 43
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Sing
 - Assist
@@ -9618,6 +9701,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Roselia
 Level: 44
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Magical Leaf
 - Leech Seed
@@ -9626,6 +9710,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Magneton
 Level: 41
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Supersonic
 - Thunderbolt
@@ -9634,6 +9719,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Gardevoir
 Level: 45
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
 - Calm Mind
@@ -9651,6 +9737,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Treecko
 Level: 5
+Shiny: Yes
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_MUDKIP ===
@@ -9664,26 +9751,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Slugma
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Wingull
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Grovyle
 Level: 20
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_BRENDAN_ROUTE_119_MUDKIP ===
@@ -9697,26 +9790,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Slugma
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Pelipper
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Grovyle
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_TREECKO ===
@@ -9730,6 +9829,7 @@ AI: Check Bad Move / Try To Faint / Setup First Turn
 
 Torchic
 Level: 5
+Shiny: Yes
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_TREECKO ===
@@ -9743,26 +9843,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Wingull
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Lombre
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Combusken
 Level: 20
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_BRENDAN_ROUTE_119_TREECKO ===
@@ -9776,26 +9882,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Pelipper
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Lombre
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Combusken
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_TORCHIC ===
@@ -9809,6 +9921,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Mudkip
 Level: 5
+Shiny: Yes
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_TORCHIC ===
@@ -9822,26 +9935,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Lombre
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Slugma
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Marshtomp
 Level: 20
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_BRENDAN_ROUTE_119_TORCHIC ===
@@ -9855,26 +9974,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Lombre
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Slugma
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Marshtomp
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_ROUTE_103_MUDKIP ===
@@ -9888,6 +10013,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Treecko
 Level: 5
+Shiny: Yes
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_ROUTE_110_MUDKIP ===
@@ -9901,26 +10027,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Wingull
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Slugma
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Grovyle
 Level: 20
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MAY_ROUTE_119_MUDKIP ===
@@ -9934,26 +10066,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Slugma
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Lombre
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Grovyle
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_ROUTE_103_TREECKO ===
@@ -9967,6 +10105,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Torchic
 Level: 5
+Shiny: Yes
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_ROUTE_110_TREECKO ===
@@ -9980,26 +10119,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Wingull
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Lombre
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Combusken
 Level: 20
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MAY_ROUTE_119_TREECKO ===
@@ -10013,26 +10158,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Pelipper
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Lombre
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Combusken
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_ROUTE_103_TORCHIC ===
@@ -10046,6 +10197,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Mudkip
 Level: 5
+Shiny: Yes
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_ROUTE_110_TORCHIC ===
@@ -10059,26 +10211,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Lombre
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Slugma
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 Marshtomp
 Level: 20
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 18
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MAY_ROUTE_119_TORCHIC ===
@@ -10092,26 +10250,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Lombre
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Slugma
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Marshtomp
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 None
 Level: 29
+Shiny: Yes
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ISAAC_1 ===
@@ -11136,26 +11300,32 @@ AI: Check Bad Move
 
 Lotad
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 Torchic
 Level: 15
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_BRENDAN_RUSTBORO_MUDKIP ===
@@ -11169,26 +11339,32 @@ AI: Check Bad Move
 
 Wingull
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 Treecko
 Level: 15
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_PAXTON ===
@@ -11292,26 +11468,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Slugma
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 Mudkip
 Level: 15
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_MAY_RUSTBORO_MUDKIP ===
@@ -11325,26 +11507,32 @@ AI: Check Bad Move / Try To Faint / Setup First Turn
 
 Wingull
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 Treecko
 Level: 15
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_MAXIE_MAGMA_HIDEOUT ===
@@ -11359,14 +11547,17 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Mightyena
 Level: 37
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Crobat
 Level: 38
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Camerupt
 Level: 39
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAXIE_MT_CHIMNEY ===
@@ -11381,14 +11572,17 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Mightyena
 Level: 24
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Zubat
 Level: 24
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Camerupt
 Level: 25
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_TIANA ===
@@ -12390,6 +12584,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Ralts
 Level: 16
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_WALLY_VR_2 ===
@@ -12404,6 +12599,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Altaria
 Level: 47
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Aerial Ace
 - Safeguard
@@ -12412,6 +12608,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Delcatty
 Level: 46
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Sing
 - Assist
@@ -12420,6 +12617,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Roselia
 Level: 47
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Magical Leaf
 - Leech Seed
@@ -12428,6 +12626,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Magneton
 Level: 44
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Supersonic
 - Thunderbolt
@@ -12436,6 +12635,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Gardevoir
 Level: 48
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
 - Calm Mind
@@ -12454,6 +12654,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Altaria
 Level: 50
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Aerial Ace
 - Safeguard
@@ -12462,6 +12663,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Delcatty
 Level: 49
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Sing
 - Assist
@@ -12470,6 +12672,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Roselia
 Level: 50
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Magical Leaf
 - Leech Seed
@@ -12478,6 +12681,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Magneton
 Level: 47
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Supersonic
 - Thunderbolt
@@ -12486,6 +12690,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Gardevoir
 Level: 51
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
 - Calm Mind
@@ -12504,6 +12709,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Altaria
 Level: 53
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Aerial Ace
 - Safeguard
@@ -12512,6 +12718,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Delcatty
 Level: 52
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Sing
 - Assist
@@ -12520,6 +12727,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Roselia
 Level: 53
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Magical Leaf
 - Leech Seed
@@ -12528,6 +12736,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Magneton
 Level: 50
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Supersonic
 - Thunderbolt
@@ -12536,6 +12745,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Gardevoir
 Level: 54
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
 - Calm Mind
@@ -12554,6 +12764,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Altaria
 Level: 56
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Aerial Ace
 - Safeguard
@@ -12562,6 +12773,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Delcatty
 Level: 55
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Sing
 - Assist
@@ -12570,6 +12782,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Roselia
 Level: 56
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Magical Leaf
 - Leech Seed
@@ -12578,6 +12791,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Magneton
 Level: 53
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 - Supersonic
 - Thunderbolt
@@ -12586,6 +12800,7 @@ IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Gardevoir
 Level: 57
+Shiny: Yes
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Double Team
 - Calm Mind
@@ -12603,26 +12818,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Tropius
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Slugma
 Level: 32
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Pelipper
 Level: 32
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Grovyle
 Level: 34
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 None
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 None
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BRENDAN_LILYCOVE_TREECKO ===
@@ -12636,26 +12857,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Tropius
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Pelipper
 Level: 32
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Ludicolo
 Level: 32
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Combusken
 Level: 34
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 None
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 None
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BRENDAN_LILYCOVE_TORCHIC ===
@@ -12669,26 +12896,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Tropius
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Ludicolo
 Level: 32
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Slugma
 Level: 32
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Marshtomp
 Level: 34
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 None
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 None
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_LILYCOVE_MUDKIP ===
@@ -12702,26 +12935,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Tropius
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Slugma
 Level: 32
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Pelipper
 Level: 32
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Grovyle
 Level: 34
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 None
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 None
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_LILYCOVE_TREECKO ===
@@ -12735,26 +12974,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Tropius
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Pelipper
 Level: 32
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Ludicolo
 Level: 32
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Combusken
 Level: 34
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 None
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 None
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_LILYCOVE_TORCHIC ===
@@ -12768,26 +13013,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Tropius
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Ludicolo
 Level: 32
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Slugma
 Level: 32
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Marshtomp
 Level: 34
+Shiny: Yes
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 None
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 None
 Level: 31
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_JONAH ===
@@ -13932,14 +14183,17 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Mightyena
 Level: 42
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Crobat
 Level: 43
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Camerupt
 Level: 44
+Shiny: Yes
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_PETE ===
@@ -14525,26 +14779,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Lotad
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 Torchic
 Level: 15
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_MAY_RUSTBORO_TORCHIC ===
@@ -14558,26 +14818,32 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Torkoal
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 Mudkip
 Level: 15
+Shiny: Yes
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 None
 Level: 13
+Shiny: Yes
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_ROXANNE_2 ===
@@ -14592,6 +14858,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Golem
 Level: 32
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 - Rollout
@@ -14600,6 +14867,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kabuto @ Sitrus Berry
 Level: 35
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Swords Dance
 - Ice Beam
@@ -14608,6 +14876,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Onix
 Level: 35
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Iron Tail
 - Explosion
@@ -14616,6 +14885,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Nosepass @ Sitrus Berry
 Level: 37
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 - Explosion
@@ -14634,6 +14904,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Omanyte
 Level: 37
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 - Ice Beam
@@ -14642,6 +14913,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Golem
 Level: 37
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 - Rollout
@@ -14650,6 +14922,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kabutops @ Sitrus Berry
 Level: 40
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Swords Dance
 - Ice Beam
@@ -14658,6 +14931,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Onix
 Level: 40
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Iron Tail
 - Explosion
@@ -14666,6 +14940,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Nosepass @ Sitrus Berry
 Level: 42
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 - Explosion
@@ -14684,6 +14959,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Omastar
 Level: 42
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 - Ice Beam
@@ -14692,6 +14968,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Golem
 Level: 42
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 - Rollout
@@ -14700,6 +14977,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kabutops @ Sitrus Berry
 Level: 45
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Swords Dance
 - Ice Beam
@@ -14708,6 +14986,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Onix
 Level: 45
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Iron Tail
 - Explosion
@@ -14716,6 +14995,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Nosepass @ Sitrus Berry
 Level: 47
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 - Explosion
@@ -14734,6 +15014,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Aerodactyl
 Level: 47
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide
 - Hyper Beam
@@ -14742,6 +15023,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Golem
 Level: 47
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Focus Punch
 - Rollout
@@ -14750,6 +15032,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Omastar
 Level: 47
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 - Ice Beam
@@ -14758,6 +15041,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kabutops @ Sitrus Berry
 Level: 50
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Swords Dance
 - Ice Beam
@@ -14766,6 +15050,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Steelix
 Level: 50
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Iron Tail
 - Explosion
@@ -14774,6 +15059,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Nosepass @ Sitrus Berry
 Level: 52
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Double Team
 - Explosion
@@ -14792,6 +15078,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Machamp @ Sitrus Berry
 Level: 33
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Karate Chop
 - Rock Slide
@@ -14800,6 +15087,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Meditite
 Level: 33
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psychic
 - Light Screen
@@ -14808,6 +15096,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Hitmontop
 Level: 35
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pursuit
 - Counter
@@ -14816,6 +15105,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Hariyama @ Sitrus Berry
 Level: 37
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Focus Punch
@@ -14834,6 +15124,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Machamp @ Sitrus Berry
 Level: 38
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Karate Chop
 - Rock Slide
@@ -14842,6 +15133,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Medicham
 Level: 38
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psychic
 - Light Screen
@@ -14850,6 +15142,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Hitmontop
 Level: 40
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pursuit
 - Counter
@@ -14858,6 +15151,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Hariyama @ Sitrus Berry
 Level: 42
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Focus Punch
@@ -14876,6 +15170,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Hitmonchan
 Level: 40
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sky Uppercut
 - Protect
@@ -14884,6 +15179,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Machamp @ Sitrus Berry
 Level: 43
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Karate Chop
 - Rock Slide
@@ -14892,6 +15188,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Medicham
 Level: 43
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Focus Punch
 - Light Screen
@@ -14900,6 +15197,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Hitmontop
 Level: 45
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pursuit
 - Counter
@@ -14908,6 +15206,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Hariyama @ Sitrus Berry
 Level: 47
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Focus Punch
@@ -14926,6 +15225,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Hitmonlee
 Level: 46
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Mega Kick
 - Focus Punch
@@ -14934,6 +15234,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Hitmonchan
 Level: 46
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sky Uppercut
 - Protect
@@ -14942,6 +15243,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Machamp @ Sitrus Berry
 Level: 48
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Cross Chop
 - Rock Slide
@@ -14950,6 +15252,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Medicham
 Level: 48
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Focus Punch
 - Light Screen
@@ -14958,6 +15261,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Hitmontop
 Level: 50
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Pursuit
 - Counter
@@ -14966,6 +15270,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Hariyama @ Sitrus Berry
 Level: 52
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Focus Punch
@@ -14984,6 +15289,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Mareep
 Level: 36
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder
 - Protect
@@ -14992,6 +15298,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Electrode
 Level: 36
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 - Thunder
@@ -15000,6 +15307,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Magneton @ Sitrus Berry
 Level: 38
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 - Protect
@@ -15008,6 +15316,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Manectric @ Sitrus Berry
 Level: 40
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bite
 - Thunder Wave
@@ -15026,6 +15335,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Pikachu
 Level: 39
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder
 - Slam
@@ -15034,6 +15344,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Flaaffy
 Level: 41
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder
 - Protect
@@ -15042,6 +15353,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Electrode
 Level: 41
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 - Thunder
@@ -15050,6 +15362,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Magneton @ Sitrus Berry
 Level: 43
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 - Protect
@@ -15058,6 +15371,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Manectric @ Sitrus Berry
 Level: 45
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bite
 - Thunder Wave
@@ -15076,6 +15390,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Raichu
 Level: 44
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder
 - Slam
@@ -15084,6 +15399,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Ampharos
 Level: 46
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder
 - Protect
@@ -15092,6 +15408,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Electrode
 Level: 46
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 - Thunder
@@ -15100,6 +15417,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Magneton @ Sitrus Berry
 Level: 48
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 - Protect
@@ -15108,6 +15426,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Manectric @ Sitrus Berry
 Level: 50
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bite
 - Thunder Wave
@@ -15126,6 +15445,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Electabuzz
 Level: 50
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Swift
 - Focus Punch
@@ -15134,6 +15454,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Raichu
 Level: 51
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder
 - Slam
@@ -15142,6 +15463,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Ampharos
 Level: 51
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder
 - Protect
@@ -15150,6 +15472,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Electrode
 Level: 53
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rollout
 - Thunder
@@ -15158,6 +15481,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Magneton @ Sitrus Berry
 Level: 53
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Supersonic
 - Protect
@@ -15166,6 +15490,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Manectric @ Sitrus Berry
 Level: 55
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Bite
 - Thunder Wave
@@ -15184,6 +15509,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Magcargo @ White Herb
 Level: 38
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Overheat
 - Attract
@@ -15192,6 +15518,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Ponyta
 Level: 36
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 - Attract
@@ -15200,6 +15527,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Camerupt @ White Herb
 Level: 38
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Overheat
 - Sunny Day
@@ -15208,6 +15536,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Torkoal @ White Herb
 Level: 40
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Overheat
 - Sunny Day
@@ -15226,6 +15555,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Growlithe
 Level: 41
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Helping Hand
 - Flamethrower
@@ -15234,6 +15564,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Magcargo @ White Herb
 Level: 43
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Overheat
 - Attract
@@ -15242,6 +15573,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Ponyta
 Level: 41
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 - Attract
@@ -15250,6 +15582,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Camerupt @ White Herb
 Level: 43
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Overheat
 - Sunny Day
@@ -15258,6 +15591,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Torkoal @ White Herb
 Level: 45
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Overheat
 - Sunny Day
@@ -15276,6 +15610,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Houndour
 Level: 46
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Roar
 - Solar Beam
@@ -15284,6 +15619,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Growlithe
 Level: 46
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Helping Hand
 - Flamethrower
@@ -15292,6 +15628,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Magcargo @ White Herb
 Level: 48
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Overheat
 - Attract
@@ -15300,6 +15637,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Rapidash
 Level: 46
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 - Attract
@@ -15308,6 +15646,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Camerupt @ White Herb
 Level: 48
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Overheat
 - Sunny Day
@@ -15316,6 +15655,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Torkoal @ White Herb
 Level: 50
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Overheat
 - Sunny Day
@@ -15334,6 +15674,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Arcanine
 Level: 51
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Helping Hand
 - Flamethrower
@@ -15342,6 +15683,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Magcargo @ White Herb
 Level: 53
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Overheat
 - Attract
@@ -15350,6 +15692,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Houndoom
 Level: 51
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Roar
 - Solar Beam
@@ -15358,6 +15701,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Rapidash
 Level: 51
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 - Attract
@@ -15366,6 +15710,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Camerupt @ White Herb
 Level: 53
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Overheat
 - Sunny Day
@@ -15374,6 +15719,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Torkoal @ White Herb
 Level: 55
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Overheat
 - Sunny Day
@@ -15392,6 +15738,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Chansey
 Level: 42
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Light Screen
 - Sing
@@ -15400,6 +15747,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Slaking @ Sitrus Berry
 Level: 42
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Blizzard
 - Shadow Ball
@@ -15408,6 +15756,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Spinda
 Level: 43
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Teeter Dance
 - Skill Swap
@@ -15416,6 +15765,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Slaking @ Sitrus Berry
 Level: 45
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hyper Beam
 - Flamethrower
@@ -15434,6 +15784,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Slaking @ Sitrus Berry
 Level: 47
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Blizzard
 - Shadow Ball
@@ -15442,6 +15793,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Chansey
 Level: 47
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Light Screen
 - Sing
@@ -15450,6 +15802,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kangaskhan
 Level: 45
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Dizzy Punch
@@ -15458,6 +15811,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Spinda
 Level: 48
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Teeter Dance
 - Skill Swap
@@ -15466,6 +15820,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Slaking @ Sitrus Berry
 Level: 50
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hyper Beam
 - Flamethrower
@@ -15484,6 +15839,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Slaking @ Sitrus Berry
 Level: 52
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Blizzard
 - Shadow Ball
@@ -15492,6 +15848,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Blissey
 Level: 52
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Light Screen
 - Sing
@@ -15500,6 +15857,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kangaskhan
 Level: 50
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Dizzy Punch
@@ -15508,6 +15866,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Spinda
 Level: 53
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Teeter Dance
 - Skill Swap
@@ -15516,6 +15875,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Slaking @ Sitrus Berry
 Level: 55
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hyper Beam
 - Flamethrower
@@ -15534,6 +15894,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Slaking @ Sitrus Berry
 Level: 57
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Blizzard
 - Shadow Ball
@@ -15542,6 +15903,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Blissey
 Level: 57
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 - Sing
@@ -15550,6 +15912,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kangaskhan
 Level: 55
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Fake Out
 - Dizzy Punch
@@ -15558,6 +15921,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Tauros
 Level: 57
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Take Down
 - Protect
@@ -15566,6 +15930,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Spinda
 Level: 58
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Teeter Dance
 - Skill Swap
@@ -15574,6 +15939,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Slaking @ Sitrus Berry
 Level: 60
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hyper Beam
 - Flamethrower
@@ -15592,6 +15958,7 @@ AI: Check Bad Move / Try To Faint / Check Viability / Risky
 
 Dratini @ Sitrus Berry
 Level: 40
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Wave
 - Thunderbolt
@@ -15600,6 +15967,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Tropius
 Level: 38
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Aerial Ace
@@ -15608,6 +15976,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Pelipper
 Level: 41
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Surf
 - Supersonic
@@ -15616,6 +15985,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Skarmory
 Level: 43
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Whirlwind
 - Spikes
@@ -15624,6 +15994,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Altaria @ Chesto Berry
 Level: 45
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Aerial Ace
 - Rest
@@ -15642,6 +16013,7 @@ AI: Check Bad Move / Try To Faint / Check Viability / Risky
 
 Hoothoot
 Level: 43
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hypnosis
 - Psychic
@@ -15650,6 +16022,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Tropius
 Level: 43
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Aerial Ace
@@ -15658,6 +16031,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Dragonair @ Sitrus Berry
 Level: 45
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Wave
 - Thunderbolt
@@ -15666,6 +16040,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Pelipper
 Level: 46
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Surf
 - Supersonic
@@ -15674,6 +16049,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Skarmory
 Level: 48
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Whirlwind
 - Spikes
@@ -15682,6 +16058,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Altaria @ Chesto Berry
 Level: 50
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Aerial Ace
 - Rest
@@ -15700,6 +16077,7 @@ AI: Check Bad Move / Try To Faint / Check Viability / Risky
 
 Noctowl
 Level: 48
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hypnosis
 - Psychic
@@ -15708,6 +16086,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Tropius
 Level: 49
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Aerial Ace
@@ -15716,6 +16095,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Dragonair @ Sitrus Berry
 Level: 50
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder Wave
 - Thunderbolt
@@ -15724,6 +16104,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Pelipper
 Level: 51
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Surf
 - Supersonic
@@ -15732,6 +16113,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Skarmory
 Level: 53
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Whirlwind
 - Spikes
@@ -15740,6 +16122,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Altaria @ Chesto Berry
 Level: 55
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Aerial Ace
 - Rest
@@ -15758,6 +16141,7 @@ AI: Check Bad Move / Try To Faint / Check Viability / Risky
 
 Noctowl
 Level: 53
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hypnosis
 - Psychic
@@ -15766,6 +16150,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Tropius
 Level: 54
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Aerial Ace
@@ -15774,6 +16159,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Pelipper
 Level: 55
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Surf
 - Supersonic
@@ -15782,6 +16168,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Dragonite @ Sitrus Berry
 Level: 55
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hyper Beam
 - Thunderbolt
@@ -15790,6 +16177,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Skarmory
 Level: 58
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Whirlwind
 - Spikes
@@ -15798,6 +16186,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Altaria @ Chesto Berry
 Level: 60
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sky Attack
 - Rest
@@ -15816,6 +16205,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Slowpoke
 Level: 48
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Yawn
 - Psychic
@@ -15824,6 +16214,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Claydol
 Level: 49
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 - Ancient Power
@@ -15832,6 +16223,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Xatu @ Chesto Berry
 Level: 49
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psychic
 - Rest
@@ -15840,6 +16232,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Lunatone @ Chesto Berry
 Level: 50
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 - Psychic
@@ -15848,6 +16241,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Solrock @ Sitrus Berry
 Level: 50
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Solar Beam
@@ -15866,6 +16260,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Drowzee
 Level: 53
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hypnosis
 - Dream Eater
@@ -15874,6 +16269,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Slowpoke
 Level: 53
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Yawn
 - Psychic
@@ -15882,6 +16278,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Claydol
 Level: 54
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 - Explosion
@@ -15890,6 +16287,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Xatu @ Chesto Berry
 Level: 54
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psychic
 - Rest
@@ -15898,6 +16296,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Lunatone @ Chesto Berry
 Level: 55
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 - Psychic
@@ -15906,6 +16305,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Solrock @ Sitrus Berry
 Level: 55
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Solar Beam
@@ -15924,6 +16324,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Hypno
 Level: 58
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hypnosis
 - Dream Eater
@@ -15932,6 +16333,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Claydol
 Level: 59
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 - Explosion
@@ -15940,6 +16342,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Slowpoke
 Level: 58
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Yawn
 - Psychic
@@ -15948,6 +16351,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Xatu @ Chesto Berry
 Level: 59
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psychic
 - Rest
@@ -15956,6 +16360,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Lunatone @ Chesto Berry
 Level: 60
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 - Psychic
@@ -15964,6 +16369,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Solrock @ Sitrus Berry
 Level: 60
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Solar Beam
@@ -15982,6 +16388,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Hypno
 Level: 63
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hypnosis
 - Dream Eater
@@ -15990,6 +16397,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Claydol
 Level: 64
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 - Explosion
@@ -15998,6 +16406,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Slowking
 Level: 63
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Yawn
 - Psychic
@@ -16006,6 +16415,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Xatu @ Chesto Berry
 Level: 64
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Psychic
 - Rest
@@ -16014,6 +16424,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Lunatone @ Chesto Berry
 Level: 65
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 - Psychic
@@ -16022,6 +16433,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Solrock @ Sitrus Berry
 Level: 65
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Sunny Day
 - Solar Beam
@@ -16040,6 +16452,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Poliwag
 Level: 46
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hypnosis
 - Rain Dance
@@ -16048,6 +16461,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Whiscash
 Level: 46
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
@@ -16056,6 +16470,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Walrein
 Level: 48
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Body Slam
@@ -16064,6 +16479,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Crawdaunt @ Chesto Berry
 Level: 48
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rest
 - Crabhammer
@@ -16072,6 +16488,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kingdra @ Chesto Berry
 Level: 51
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Double Team
@@ -16090,6 +16507,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Poliwhirl
 Level: 50
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hypnosis
 - Rain Dance
@@ -16098,6 +16516,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Whiscash
 Level: 51
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
@@ -16106,6 +16525,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Walrein
 Level: 53
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Body Slam
@@ -16114,6 +16534,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Crawdaunt @ Chesto Berry
 Level: 53
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rest
 - Guillotine
@@ -16122,6 +16543,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kingdra @ Chesto Berry
 Level: 56
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Double Team
@@ -16140,6 +16562,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Lapras
 Level: 56
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hydro Pump
 - Perish Song
@@ -16148,6 +16571,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Whiscash
 Level: 58
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
@@ -16156,6 +16580,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Poliwhirl
 Level: 56
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hypnosis
 - Rain Dance
@@ -16164,6 +16589,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Walrein
 Level: 58
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Body Slam
@@ -16172,6 +16598,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Crawdaunt @ Chesto Berry
 Level: 58
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rest
 - Guillotine
@@ -16180,6 +16607,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kingdra @ Chesto Berry
 Level: 61
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Double Team
@@ -16198,6 +16626,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Lapras
 Level: 61
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hydro Pump
 - Perish Song
@@ -16206,6 +16635,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Whiscash
 Level: 63
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rain Dance
 - Water Pulse
@@ -16214,6 +16644,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Politoed
 Level: 61
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Hypnosis
 - Rain Dance
@@ -16222,6 +16653,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Walrein
 Level: 63
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Body Slam
@@ -16230,6 +16662,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Crawdaunt @ Chesto Berry
 Level: 63
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rest
 - Guillotine
@@ -16238,6 +16671,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Kingdra @ Chesto Berry
 Level: 66
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Double Team
@@ -16292,6 +16726,7 @@ AI: Check Bad Move / Try To Faint / Check Viability
 
 Skarmory
 Level: 77
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Toxic
 - Aerial Ace
@@ -16300,6 +16735,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Claydol
 Level: 75
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Reflect
 - Light Screen
@@ -16308,6 +16744,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Aggron
 Level: 76
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Thunder
 - Earthquake
@@ -16316,6 +16753,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Cradily
 Level: 76
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Giga Drain
 - Ancient Power
@@ -16324,6 +16762,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Armaldo
 Level: 76
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Water Pulse
 - Ancient Power
@@ -16332,6 +16771,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 
 Metagross @ Sitrus Berry
 Level: 78
+Shiny: Yes
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 - Psychic
@@ -17263,6 +17703,7 @@ Double Battle: No
 
 Charmander
 Level: 5
+Shiny: Yes
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LEAF ===
@@ -17275,6 +17716,7 @@ Double Battle: No
 
 Bulbasaur
 Level: 5
+Shiny: Yes
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_BRENDAN_PLACEHOLDER ===
@@ -17287,6 +17729,7 @@ Double Battle: No
 
 Groudon
 Level: 5
+Shiny: Yes
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MAY_PLACEHOLDER ===
@@ -17299,6 +17742,7 @@ Double Battle: No
 
 Kyogre
 Level: 5
+Shiny: Yes
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_ROXANNE_NERFED ===
