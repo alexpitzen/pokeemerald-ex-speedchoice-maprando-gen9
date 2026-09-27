@@ -344,7 +344,6 @@ u8 __attribute__((optimize("O0"))) handleRandomizedTeachableLearnsets(u16 specie
 
         seed = gUprStaticVars[i] + species + move;
         return (PRandom(&seed) % 2);
-
     }
     else 
     {
@@ -366,8 +365,8 @@ u8 __attribute__((optimize("O0"))) handleRandomizedTeachableLearnsets(u16 specie
         }
 
         seed = gUprStaticVars[i] + species + move;
-        return (PRandom(&seed) % 2);
-        
+        // Type compatibility plus 50% fallback
+        return gMovesInfo[move].type == gSpeciesInfo[species].types[0] || gMovesInfo[move].type == gSpeciesInfo[species].types[1] || (PRandom(&seed) % 2);
     }
 
 }
